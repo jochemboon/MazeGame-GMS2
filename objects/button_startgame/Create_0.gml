@@ -1,0 +1,1 @@
+buttontext = "Start game";
